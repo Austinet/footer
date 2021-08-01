@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/largescreen.JPG)
-![](images/mediumscreen.JPG)
-![](images/smallscreen.JPG)
-![](images/smallscreen2.JPG)
+![](screenshots/largescreen.JPG)
+![](screenshots/mediumscreen.JPG)
+![](screenshots/smallscreen.JPG)
+![](screenshots/smallscreen2.JPG)
 
 
 ### Links
